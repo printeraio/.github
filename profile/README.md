@@ -1,6 +1,6 @@
 # Printera is a next-generation 3d printer management tool.
 
-We are creating a 3d printer management tool which consider web-based management and monitoring.
+We are building a 3d printer management tool that considers web-based management and monitoring.
 
 ### WE'RE PRINTERA! ✨
 
